@@ -1,15 +1,12 @@
 from socket import * # 导入 socket 模块
 import sys # 为了退出服务器程序
-
 serverSocket = socket(AF_INET, SOCK_STREAM)
 # 准备一个欢迎套接字
 # 开始补全
 # 结束补全
-
 statusLineFor200 = 'HTTP/1.1 200 OK\n' # 构造 HTTP 响应报文中请求成功状态行
 statusLineFor404 = # 开始补全 # 结束补全 # 构造 HTTP 响应报文中找不到请求对象状态行
 newLine = '\n' # 空行
-
 while True:
     print('服务器已启动！\n')
     connectionSocket, addr = # 开始补全 # 结束补全 # 建立连接
@@ -23,14 +20,12 @@ while True:
         connectionSocket.send(outputdata.encode())
         connectionSocket.close()
         print('连接已关闭！\n')
-
     except IOError:
         notFound = statusLineFor404 + newLine + open('404.html').read() # 构造 HTTP 响应报文
         print('HTTP响应报文：' + notFound + '\n')
          # 开始补全 # 结束补全 # 发送 404 响应报文
         # 开始补全 # 结束补全 # 关闭连接
         print('连接已关闭！\n')
-
     serverSocket.close() # 关闭欢迎套接字
     print('服务器已关闭！\n')
     sys.exit() # 退出控制台
