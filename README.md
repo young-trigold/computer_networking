@@ -2,8 +2,8 @@
 
 ## 参考
 
-- 《计算机网络：自顶向下方法》第 7 版 中文版
-- 《计算机网络：自顶向下方法》第 8 版 英文版
+- 《计算机网络：自顶向下方法》第 7 版
+- Computer Networking(Top-Down Approach) 8th
 - [RFC 7230](https://datatracker.ietf.org/doc/html/rfc7230)
 - [RFC 7231](https://datatracker.ietf.org/doc/html/rfc7231)
 
