@@ -4,8 +4,8 @@
 
 - 《计算机网络：自顶向下方法》第 7 版 中文版
 - 《计算机网络：自顶向下方法》第 8 版 英文版
-- 哈尔滨工业大学《计算机网络》
-- 其他
+- [RFC 7230](https://datatracker.ietf.org/doc/html/rfc7230)
+- [RFC 7231](https://datatracker.ietf.org/doc/html/rfc7231)
 
 ## 附件
 
