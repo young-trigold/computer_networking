@@ -82,7 +82,7 @@
 
 ### 1.1.2. 通信链路
 
-**通信链路(communication link)** 分为不同的 **物理媒体(physical medium)**，如电缆，铜线，光纤，和无线信道。不同物理媒体的通信链路有不同的 **传输速率(transmiss1on rate)**，传输速率以 bit/s(bps) 度量。
+**通信链路(communication link)** 分为不同的 **物理媒体(physical medium)**，如电缆，铜线，光纤，和无线信道。不同物理媒体的通信链路有不同的 **传输速率(transmission rate)**，传输速率以 bit/s(bps) 度量。
 
 这些物理媒体分为 2 类：**导引型媒体(guided media)** 和 **非导引型媒体(unguided media)**。
 
