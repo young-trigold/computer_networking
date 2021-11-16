@@ -13,8 +13,4 @@
 
 # Issues (问题)
 
-<<<<<<< HEAD
 - 目前 Github Markdown 并不支持渲染 LaTeX 数学公式。推荐下载到本地，使用 vs code 插件：Markdown Preview Enhanced 查看。
-=======
-- 目前 Github Markdown 并不支持渲染 LaTeX 数学公式。推荐下载到本地，使用 vs code 插件：Markdown Preview Enhanced 查看。
->>>>>>> dea570c6a4f6e5da6e67d2477d71396c596a73c1
