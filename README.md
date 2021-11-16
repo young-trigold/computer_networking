@@ -1,7 +1,7 @@
 # References (参考)
 
-- Computer Networking(Top-Down Approach) 8th
-- 《计算机网络：自顶向下方法》第 7 版
+- [Computer Networking(Top-Down Approach) 8th](https://www.pearson.com/us/higher-education/program/Kurose-Pearson-e-Text-Computer-Networking-Access-Card-8th-Edition/PGM2877610.html)
+- [《计算机网络：自顶向下方法》第 7 版](https://item.jd.com/12392810.html)
 - [RFC 7230](https://datatracker.ietf.org/doc/html/rfc7230)
 - [RFC 7231](https://datatracker.ietf.org/doc/html/rfc7231)
 - [RFC 7540](https://datatracker.ietf.org/doc/html/rfc7540)
